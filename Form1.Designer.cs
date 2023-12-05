@@ -54,7 +54,7 @@
             // 
             this.btnPlace.Location = new System.Drawing.Point(172, 12);
             this.btnPlace.Name = "btnPlace";
-            this.btnPlace.Size = new System.Drawing.Size(103, 43);
+            this.btnPlace.Size = new System.Drawing.Size(109, 43);
             this.btnPlace.TabIndex = 0;
             this.btnPlace.Text = "Размещение";
             this.btnPlace.UseVisualStyleBackColor = true;
